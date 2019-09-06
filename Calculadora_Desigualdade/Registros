@@ -1,0 +1,48 @@
+# site do IBGE
+https://www.ibge.gov.br/estatisticas/multidominio/condicoes-de-vida-desigualdade-e-pobreza/17270-pnad-continua.html?=&t=microdados
+# Documentacao IBGE
+https://downloads.ibge.gov.br/downloads_estatisticas.htm?caminho=Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Anual/Microdados/Documentacao
+
+Site de Leitura dos microdados no R
+https://rpubs.com/BragaDouglas/335574
+
+
+Calculadora da Desigualdade
+A Calculadora da Desigualdade, feita por Oxfam e por Ojo Público, permite a qualquer pessoa de 16 países da América Latina comparar sua renda familiar com o que ganham os multimilionários desses mesmos países. Nela, também é possível comparar as faixas de renda existentes e ver como a desigualdade está cada vez mais presente na região.
+Mais detalhes sobre os conceitos e metodologias utilizados estão disponíveis no link “Como foi feito?”
+Todos os dados usados para os cálculos apresentados estão presentes no relatório “Privilégios que negam direitos”.
+Compare aqui a sua renda familiar:
+
+#--------------------------------------------------------------------------------------------------------------------------
+2017
+       0 0.1 0.2 0.3  0.4  0.5  0.6  0.7  0.8  0.9      1
+VD4020 0 350 800 937 1000 1300 1500 2000 2700 4100 700000
+#--------------------------------------------------------------------------------------------------------------------------
+
+A Calculadora da Desigualdade nos mostra a realidade sobre as sociedades injustas em que vivemos. Ela permite visualizar a nossa própria situação em relação aos ganhos do restante da sociedade. E também aponta para a desigualdade extrema, onde poucas pessoas concentram muita riqueza e, consequentemente, muito poder. Nesse ciclo, pouquíssimas pessoas são beneficiadas por dinheiro e influência, enquanto muitas outras sofrem as consequências da desigualdade.
+O que você pode fazer
+
+Garantir os direitos de todos os cidadãos e cidadãs implica em reduzir os privilégios de algumas poucas pessoas. Você também pode fazer parte deste movimento por mudanças.
+
+ 
+
+Nota: Por que o grupo 10 envolve uma variação tão grande de renda?
+A base de análise da calculadora é feita a partir do agrupamento da população total dos países em decis. Um decil é igual a 10%. Neste conceito estatístico, o número total da população do país (incluindo crianças e pessoas sem renda) é dividido por 10. Assim, em um país como o Brasil, com uma população de 206 milhões de habitantes, cada decil representa um grupo com 20 milhões de pessoas.
+
+O aplicativo também toma como base a renda familiar per capita, que é a renda de todos os integrantes do domicílio somada e dividida pelo número total de pessoas que moram naquele local. Ou seja, em uma família com 4 pessoas, onde apenas uma possui renda, essa renda será dividida por 4. Em uma casa com 4 pessoas, onde duas possuem renda, a renda das duas será somada e dividida por 4. E assim sucessivamente.
+
+Dessa forma, temos no Brasil 20 milhões de pessoas no primeiro decil, que apresenta renda familiar per capita que vai de zero a R$ 232. Temos outros 20 milhões no segundo decil, com renda entre R$ 232 e R$ 386. Em fevereiro, o IBGE divulgou a renda média familiar per capita no Brasil. A média no Brasil foi de R$ 1.052 – que, comparativamente, corresponde ao sétimo decil da calculadora. Se olharmos por Estado, os dados do IBGE apontam para renda média familiar per capta que vão de R$ 509, como é o caso do Maranhão, até R$ 2.252, no DF.
+
+Quando pegamos a população total e dividimos em grupos de renda, vemos que aproximadamente 80% da população tem renda familiar per capita menor que R$ 1,7 mil por mês. Apenas 10% da população do Brasil tem renda acima de R$ 2,6 mil por pessoa da família por mês. No Distrito Federal e em São Paulo, por exemplo, isso pode parecer pouco. Mas em Estados como Maranhão, Alagoas e Pará, representa muito.
+
+Dentro desses 10% classificados como Renda Alta estão apenas 20 milhões de pessoas no Brasil com renda familiar per capita entre R$ 2,6 mil e R$ 454 mil.
+
+No caso da calculadora, os multimilionários ficaram fora dos grupos porque representam uma parte muito pequena da população – no Brasil, somam 4.225 pessoas, ou 0,002% da população total do país. Mesmo sendo tão poucos, eles possuem riquezas que correspondem a 37% do nosso PIB
+
+
+
+
+
+
+
+
